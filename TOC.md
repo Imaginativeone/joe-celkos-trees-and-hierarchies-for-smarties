@@ -1,5 +1,5 @@
-0A. Contents
-0B. Introduction
+- Contents
+- Introduction
 01. Graphs, Trees and Hierarchies
 02. Adjacency List Model
 03. Path Enumeration Models
