@@ -8,3 +8,10 @@
 06. Linear Version of the Nested Sets Model
 07. Binary Trees
 08. Other Models for Trees
+09. Proprietary Extensions for Trees
+10. Hierarchies in Data Modeling
+11. Hierarchical Encoding Schemes
+12. Graphs in SQL
+13. Petri Nets
+14. State Transition Graphs
+15. Hierarchical Database Systems (IMS)
